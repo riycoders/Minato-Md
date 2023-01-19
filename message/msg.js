@@ -2,7 +2,6 @@
      Base : Irfan H.
      Recode : riycoders
      Baca : edit owner dll. di file config.json
-     Ewh : enc aja dijual apalagi noenc hhh
 */
 
 "use strict";
