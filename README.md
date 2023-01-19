@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/riycoders/Minato-Md/blob/v7.1/image/minato.jpg" alt="MINATO BOT" width="100"/>
+<img src="https://telegra.ph/file/c37dcf885413c4c1f01f7.jpg" alt="MINATO BOT" width="100"/>
 
 
 </p>
