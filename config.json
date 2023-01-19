@@ -1,0 +1,22 @@
+{
+  "ownerNumber": "6281575886399@s.whatsapp.net",
+  "ownerName": "Riy",
+  "botName": "Minato-Md",
+  "footer": "Support By skysufers.xyz",
+  "youtube": "https://youtube.com/@riycoders",
+  "packname": "Created By",
+  "author": "@riycoders",
+  "donasi": {
+    "dana": "081575886399",
+    "gopay": "081575886399"
+  },
+  "sessionName": "session",
+  "pathimg": "./media/minato.jpg",
+  "lolkey": "SadTeams",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+    "prem": 35,
+    "user": 15
+  }
+}
