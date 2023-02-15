@@ -7,10 +7,6 @@
 <a href="#"><img title="MINATO MULTI DEVICE" src="https://img.shields.io/badge/MINATO MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/rtwone"><img title="Author" src="https://img.shields.io/badge/Author-Irfan-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/riycoders/Minato-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-riycoders-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
 <a href="https://github.com/riycoders/followers"><img title="Followers" src="https://img.shields.io/github/followers/riycoders?color=red&style=flat-square"></a>
 <a href="https://github.com/riycoders/Minato-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/riycoders/Minato-Md?color=blue&style=flat-square"></a>
 <a href="https://github.com/riycoders/Minato-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/riycoders/Minato-Md?color=red&style=flat-square"></a>
@@ -33,19 +29,22 @@
 ```ts
 {
   "ownerNumber": "6281575886399@s.whatsapp.net",
-  "ownerName": "Riy",
+  "ownerName": "riycoders",
   "botName": "Minato-Md",
-  "footer": "Support By skysufers.xyz",
-  "youtube": "https://youtube.com/@riycoders",
+  "footer": "Support By xcodeteam.xyz",
   "packname": "Created By",
   "author": "@riycoders",
-  "donasi": {
-    "dana": "081575886399",
-    "gopay": "081575886399"
-  },
   "sessionName": "session",
   "pathimg": "./media/minato.jpg",
-  "lolkey": "SadTeams",
+  "sosmed": {
+    "youtube": "https://youtube.com/@riycoders",
+    "instagram": "https://instagram.com/riycoders"
+  },
+  "donasi": {
+    "dana": "081575886399",
+    "gopay": "081575886399",
+    "pulsa": "081575886399"
+  },
   "gamewaktu": 90,
   "limitCount": 25,
   "gcount": {
