@@ -67,4 +67,4 @@
 • [Yoga A.](https://github.com/yogGanz)
 • [Guntur](https://github.com/gabrielhrz)
 • [riycoders](https://github.com/riycoders)
-• [X-CodeTeam](https://xcodeteam.xyz)
+• [X-Code](https://xcodeteam.xyz)
