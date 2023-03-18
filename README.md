@@ -63,8 +63,8 @@
 <a href="https://chat.whatsapp.com/Kovvlm093ni28Y50umWKdE"><img src="https://img.shields.io/badge/Forum Minato Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 # Thanks to
-- Irfan H.
-- Yoga A.
-- Guntur
-- riycoders
-- X-Code Team
+> [Irfan H.](https://github.com/rtwone)
+> [Yoga A.](https://github.com/yogGanz)
+> [Guntur](https://github.com/gabrielhrz)
+> [riycoders](https://github.com/riycoders)
+> [X-Code Team](https://xcodeteam.xyz)
