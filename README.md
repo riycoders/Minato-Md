@@ -21,6 +21,9 @@
 ## Information
 > Minato-Md adalah bot yang memakai base dari [Chitanda Eru Bot](https://github.com/rtwone/chitandabot). Minato-Md is a bot whatsapp using a [Baileys](https://github.com/adiwajshing/baileys) library.
 
+## Apikey
+> Get Apikey [Klik Here](https://api.riycoders.my.id)
+
 ## Edit Owner 
 
 <details>
