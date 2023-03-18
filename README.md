@@ -56,14 +56,8 @@
 ```
 </details>
 
-## Fitur Bot Preview
-<details>
-<summary> <b>Menu bot</b></summary><br/>
-<img src="https://mega.nz/file/MvwyRSQb#xNQh4SuRkmn4mDVNtzZa7dVhAv_hDyOIRIF0v_iSaPY" />
-</details>
-
 # Official Group
-<a href="-"><img src="https://img.shields.io/badge/Forum Minato Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/Kovvlm093ni28Y50umWKdE"><img src="https://img.shields.io/badge/Forum Minato Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 # Thanks to
 - Irfan H.
